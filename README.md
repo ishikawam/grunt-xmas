@@ -24,9 +24,9 @@ grunt.loadNpmTasks('grunt-xmas');
 
 
 ## xmas task
-_Run this task with the `grunt xmas` command.
+_Run this task with the `grunt xmas` command._
 
-Task targets, files and options may be specified according to the grunt [Configuring tasks](http://gruntjs.com/configuring-tasks) guide.
+Just run it!
 
 
 ### Usage Examples
