@@ -38,6 +38,8 @@ xmas: {
 }
 ```
 
+<img src="https://raw.github.com/ishikawam/grunt-xmas/master/animation.gif" width="600">
+
 
 ## Release History
 
