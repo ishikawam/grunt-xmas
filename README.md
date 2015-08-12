@@ -43,6 +43,7 @@ xmas: {
 
 ## Release History
 
+ * 2015-08-12   v0.0.3   Update dependencies.
  * 2013-12-06   v0.0.1   Init.
 
 ---
